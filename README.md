@@ -128,12 +128,7 @@ The project includes visualizations such as:
 - Customer Cluster Plot
 - Cluster Analysis
 
-*(You can add screenshots in the `images/` folder and display them here.)*
 
-Example:
-
-```markdown
-![Customer Clusters](images/customer_clusters.png)
 ```
 
 ---
