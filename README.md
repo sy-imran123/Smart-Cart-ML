@@ -129,9 +129,6 @@ The project includes visualizations such as:
 - Cluster Analysis
 
 
-```
-
----
 
 ## 🛠️ Technologies Used
 
@@ -267,9 +264,8 @@ This project is developed for educational and learning purposes.
 
 AI & Machine Learning Enthusiast
 
-📧 Email: your-email@example.com
-
-🌐 GitHub: https://github.com/yourusername
+📧 Email: is0981102@gmail.com
+🌐 GitHub:https://github.com/sy-imran123
 
 ---
 
